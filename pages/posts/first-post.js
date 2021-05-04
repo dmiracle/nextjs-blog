@@ -9,7 +9,7 @@ export default function FirstPost() {
         <title>First Post</title>
       </Head>
       <h1>First Post</h1>
-      <h2>
+      <h2> Why is first post even a thing?
         <Link href="/">
           <a>Back to home</a>
         </Link>
